@@ -1,5 +1,6 @@
 <template>
-    <div class="row p-3 bg-Primary text-white">
+    <div class="header">
+    <div class="row p-3  text-white">
         <div class="col-lg-1">
             <img src="~/assets/img/LOGO-SMK4.png" alt="logo smkn4" height="100px" width="100px">
         </div>
@@ -11,4 +12,12 @@
             </address>
         </div>
     </div>
+    </div>
 </template>
+
+<style scoped>
+.header{
+    background-color: #4AC1DB;
+}
+</style>
+

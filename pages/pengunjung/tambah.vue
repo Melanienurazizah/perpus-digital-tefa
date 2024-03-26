@@ -45,15 +45,17 @@
                                     <option value="4">4</option>
                                 </select>
                             </div>
-                            <div class="col-md-4">
-                                <select class="form-control form-control-lg form-select rounded-5 mb-2">
+                            <div class="md-3">
+                                <select class="form-control form-control-lg form-select rounded-5">
                                     <option value="">KEPERLUAN</option>
                                     <option value="baca">Baca Buku</option>
                                     <option value="pinjam">Pinjam Buku</option>
                                     <option value="Kembalikan">Kembalikan BUku</option>
                                 </select>
                             </div>
-                            <button type="submit" class="btn btn-dark btn-lg rounded-5 px-5">KIRIM</button>
+                            <nuxt-link to="/pengunjung">
+                                <button type="submit" class="btn btn-dark btn-lg rounded-5 px-5">KIRIM</button>                             
+                            </nuxt-link>
                         </div>
                     </div>
                 </form>
@@ -61,3 +63,4 @@
         </div>
     </div>
 </template>
+

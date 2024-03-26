@@ -24,6 +24,12 @@
                             <td>guru</td>
                             <td>24 februari 2024, 23.31.00</td>
                         </tr>
+                        <tr>
+                            <td>2.</td>
+                            <td>melanie</td>
+                            <td>siswa</td>
+                            <td>24 februari 2024, 23.31.00</td>
+                        </tr>
                     </tbody>
                 </table>
             </div>
