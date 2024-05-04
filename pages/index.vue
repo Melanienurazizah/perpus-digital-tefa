@@ -78,7 +78,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #E4CA6B;
+    background-color: #C9D484;
 }
 .melanie1 {
     height: 200px;
@@ -87,6 +87,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1DDD81
+    background-color: #AEDAB8;
 }
 </style>
